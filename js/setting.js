@@ -10,7 +10,7 @@ Taxes.taxRate = 0.06; // 住民税率
 
 var OpenSpending = OpenSpending || {};
 
-OpenSpending.identifier = 'omura_2015_tosyo';
+OpenSpending.identifier = 'omura_budget_2015';
 OpenSpending.year = '2015';
 
 OpenSpending.Styles = OpenSpending.Styles || {};
