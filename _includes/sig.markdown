@@ -1,1 +1,1 @@
-Where Does My Money Go? Yokohama team https://github.com/orezeni/orezeni.github.com
+Where Does My Money Go? Omura team https://github.com/code4omura/code4omura.github.com
